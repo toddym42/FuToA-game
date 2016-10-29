@@ -1,2 +1,2 @@
 # FuToA-game
-A numbers based puzzle game.
+Prototype for a numbers based puzzle game.
