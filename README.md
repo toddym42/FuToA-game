@@ -1,2 +1,2 @@
 # FuToA-game
-Prototype for a numbers based puzzle game made in the Unity game engine.
+Latest build of FuToA - an educational game.
